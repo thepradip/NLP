@@ -7,3 +7,5 @@ It is all about NLP
 - [Standford NLP tutorials|tensorflow](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
 - [graykode|nlp-tutorial](https://github.com/graykode/nlp-tutorial)
 - [Textacy](https://chartbeat-labs.github.io/textacy/)
+# best 19 
+- [kaggle | nlp ](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/114724#latest-684247)
